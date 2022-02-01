@@ -1,16 +1,16 @@
 {
   "episodes": [
     {
-      "id": "calma-amor-nao-e-isso-que-voce1",
-      "title": "GazetaCast #01 | Calma amor, não é isso que você esta pensando",
-      "members": "Ian Uchôa",
-      "published_at": "2021-07-08 11:00:00",
-      "thumbnail": "https://backst4gestudio.com.br/wp-content/uploads/2021/06/thumb1.png",
-      "description": "<p>Nesse episódio do GazetaCast, Ian Uchôa vem para discutir sobre a importância da contribuição dos isentões que rodam as redes sociais!</p>",
+      "id": "SobreTudo-Welligton-Gomes",
+      "title": "SobreTudo #01 | Wellington Gomes",
+      "members": "Carlos Japwwa e Welligton Gomes",
+      "published_at": "2022-01-31 12:00:00",
+      "thumbnail": "https://backst4gestudio.com.br/wp-content/uploads/2022/02/banner1.png",
+      "description": "<p>Nesse episódio do SobreTudo, Carlos Japwwa conversa com o Dr. Welligton Gomes. A história que vem logo após sua formação acadêmica. Desafios, Dores, Alegrias e outras coisas. </p>",
       "file": {
-        "url": "https://anchor.fm/s/622640b4/podcast/play/36899777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-8%2Fc7d2f1c7-28c4-5e64-f10f-651e75a10263.mp3",
+        "url": "https://anchor.fm/s/812414dc/podcast/play/46981626/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-1%2Fd109c2a4-e1a9-0d6a-e6ee-cc6b81c7a529.mp3",
         "type": "audio/x-mp3",
-        "duration": 432
+        "duration": 3805
       }
     }
   ]
